@@ -1,0 +1,9 @@
+{
+  "name": "openmp-test",
+  "version-string": "1.0.0",
+  "port-version": 1,
+  "homepage": "https://dev.azure.com/CoesiaDigital/test",
+  "description": "OpenMP Test",
+  "dependencies": [
+  ]
+}
